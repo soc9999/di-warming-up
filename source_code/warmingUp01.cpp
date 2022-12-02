@@ -83,7 +83,8 @@ int main() {
     // +1 constructor // +1 push to vector
 
 
-    // +1 constructor // +1 push to vector
+    wiseStudent sokratis("sokratis", "1115202100XXX", "P_P");
+    team.push_back(sokratis);
 
 
     // +1 constructor // +1 push to vector
